@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FluentGuitar]]></title>
+        <description><![CDATA[FluentGuitar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 25 Mar 2016 20:53:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>Justin Martinez is classically trained guitarist who 
+has been performing at special events for over 10 years. His guitar 
+music adds an elegant touch to any occasion. From classical to 
+contemporary, Justin’s music enhances the ambiance during all types of 
+events, including wedding ceremonies, cocktail hours, rehearsal dinners,
+ private parties, wine tastings, corporate events, and community 
+festivals. He is dedicated to providing the perfect flavor for each 
+occasion and tailors all music selections to express the theme of the 
+event.</p></article>]]></description>
+            <link>undefinedabout-me/index.html</link>
+            <guid isPermaLink="false">cbb28845-0bfb-4010-9ae4-71cb171e1962</guid>
+            <pubDate>Fri, 25 Mar 2016 20:53:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
