@@ -4,15 +4,8 @@
         <description><![CDATA[FluentGuitar]]></description>
         <link>https://thegrid.ai/fluentguitar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 20:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2016 20:51:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fluentguitar/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Lessons]]></title>
-            <description><![CDATA[<article><h1>Lessons</h1><p>One-on-one lessons are a great way to start diving in and taking on music in depth. However, I believe the best way to learn and practice what you learn in a lesson is to play with other musicians. This is where most lessons stop short and where most musicians get hung up. Nothing can replace the learn-by-doing approach of playing with other music, and the sheer joy that is communicating with another human being with music. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b73670a2-fdbe-4025-8491-5ce1098077a5.jpg"></article>]]></description>
-            <link>https://thegrid.ai/fluentguitar/lessons/index.html</link>
-            <guid isPermaLink="false">b3e8f9a8-c208-43a8-b2fe-b97dd2e8be42</guid>
-            <pubDate>Sun, 27 Mar 2016 20:45:21 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[About Me]]></title>
             <description><![CDATA[<article><h1>About Me</h1><p>Justin Martinez is classically trained guitarist who 
@@ -26,7 +19,14 @@ occasion and tailors all music selections to express the theme of the
 event.</p></article>]]></description>
             <link>https://thegrid.ai/fluentguitar/about-me/index.html</link>
             <guid isPermaLink="false">cbb28845-0bfb-4010-9ae4-71cb171e1962</guid>
-            <pubDate>Fri, 25 Mar 2016 20:53:45 GMT</pubDate>
+            <pubDate>Sun, 27 Mar 2016 20:51:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lessons]]></title>
+            <description><![CDATA[<article><h1>Lessons</h1><p>One-on-one lessons are a great way to start diving in and taking on music in depth. However, I believe the best way to learn and practice what you learn in a lesson is to play with other musicians. This is where most lessons stop short and where most musicians get hung up. Nothing can replace the learn-by-doing approach of playing with other music, and the sheer joy that is communicating with another human being with music. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3026e7efa0950fa3d2d77b50472429ae3399118c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/fluentguitar/lessons/index.html</link>
+            <guid isPermaLink="false">b3e8f9a8-c208-43a8-b2fe-b97dd2e8be42</guid>
+            <pubDate>Sun, 27 Mar 2016 20:45:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
