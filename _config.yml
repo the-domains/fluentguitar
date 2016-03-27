@@ -2,6 +2,7 @@ name: FluentGuitar
 favicon: null
 layout_spectrum: 0.29153
 typography_spectrum: 0.07554
+title: FluentGuitar
 cta:
   domain: null
   bucket: null
