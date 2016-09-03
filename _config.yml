@@ -1,20 +1,4 @@
-name: FluentGuitar
-favicon: null
-layout_spectrum: 0.42276
 typography_spectrum: 0.07554
-title: FluentGuitar
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9e8e81'
@@ -26,4 +10,24 @@ color:
   lightness: 0.25
   saturation: 0.3125
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.42276
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: FluentGuitar
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About Me
+    id: cbb28845-0bfb-4010-9ae4-71cb171e1962
+    type: content
+favicon: null
+title: FluentGuitar
 purpose: []
